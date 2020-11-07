@@ -1,0 +1,18 @@
+p{
+    color: blueviolet;
+    background-color : whitesmoke;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+#sweet{
+    color: violet;
+}
+
+.maki{
+    color : royalblue;
+}
+
+p .maki{
+    color : red;
+}
